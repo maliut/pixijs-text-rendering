@@ -154,7 +154,7 @@ import {
         fontWeight: "lighter",
       },
       textureStyle: {
-        scaleMode: "linear",
+        scaleMode: "nearest",
       },
     });
 
